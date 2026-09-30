@@ -2,6 +2,8 @@
 
 Paste a long link, get a short one, and see how many people opened it and when.
 
+**Live demo:** [shortly-url-shortener-2.onrender.com](https://shortly-url-shortener-2.onrender.com/)
+
 **Stack:** React (Vite) · Node.js · Express 5 · MongoDB (Mongoose)
 
 ## Project structure
